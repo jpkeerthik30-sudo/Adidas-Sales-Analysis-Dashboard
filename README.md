@@ -19,7 +19,7 @@ Power BI (.pbix)
 Power Query for data transformation
 DAX (Data Analysis Expressions) for KPIs and measures
 Data modeling with relationships
-📂 Dataset Overview
+<a href = https://github.com/jpkeerthik30-sudo/Adidas-Sales-Analysis-Dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx> Dataset Overview </a>
 
 ## The dataset typically includes:
 
