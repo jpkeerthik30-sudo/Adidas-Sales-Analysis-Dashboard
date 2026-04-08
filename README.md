@@ -1,12 +1,12 @@
 # Adidas-Sales-Analysis-Dashboard
 
-## Project Description 
+## Project Description :
 
 This project presents an interactive Power BI dashboard analyzing sales data of Adidas across the United States. The dashboard is designed to provide insights into sales performance, product trends, retailer contributions, and regional distribution.
 
 It enables users to explore key business metrics such as total revenue, units sold, operating profit, and sales by product categories. The visualization helps in identifying high-performing regions, top retailers, and seasonal trends, supporting data-driven decision-making.
 
-## Key Features
+## Key Features:
 - Sales trend analysis over time (monthly/yearly)
 - Product category and product-wise performance
 - Retailer-wise sales comparison
@@ -14,7 +14,7 @@ It enables users to explore key business metrics such as total revenue, units so
 - Revenue, profit, and margin analysis
 - Units sold and demand trends
   
-## Tools & Technologies
+## Tools & Technologies:
 Power BI (.pbix)
 Power Query for data transformation
 DAX (Data Analysis Expressions) for KPIs and measures
@@ -29,7 +29,7 @@ Retailers and sales channels
 Region/state information
 Revenue, profit, and units sold
 
-## Objective
+## Objective:
 
 The main objective of this project is to:
 
@@ -38,7 +38,7 @@ Identify top-performing products and regions
 Evaluate retailer contributions
 Discover trends and patterns for business growth
 
- ## Business Questions
+ ## Business Questions:
 ### Sales Performance
 What is the total sales revenue and profit generated?
 How do sales trends vary over time (monthly/yearly)?
